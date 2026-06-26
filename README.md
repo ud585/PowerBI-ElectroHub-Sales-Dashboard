@@ -107,6 +107,26 @@ PowerBI-ElectroHub-Sales-Dashboard
 * KPI Reporting
 * Data Visualization
 
+▶️ How to Run the Project
+
+Step 1: Download the Sales Data Analysis.pbix file
+
+Step 2: Open Power BI Dashboard
+
+• Open the .pbix file in Power BI Desktop
+
+• Refresh dataset connections if required
+
+• Explore interactive visuals and filters
+
+Step 3: Analyze Dashboard
+
+• Use slicers and filters
+
+• Compare performance across periods
+
+• Analyze product and city-wise trends
+
 
 
 # 👨‍💻 Author
